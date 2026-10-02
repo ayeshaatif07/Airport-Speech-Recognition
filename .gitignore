@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+# Vosk speech models are too large for GitHub (see README)
+models/
